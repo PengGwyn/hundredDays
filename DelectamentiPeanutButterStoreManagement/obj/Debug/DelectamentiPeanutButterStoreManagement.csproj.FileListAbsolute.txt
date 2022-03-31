@@ -1,0 +1,12 @@
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\bin\Debug\DelectamentiPeanutButterStoreManagement.exe.config
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\bin\Debug\DelectamentiPeanutButterStoreManagement.exe
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\bin\Debug\DelectamentiPeanutButterStoreManagement.pdb
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.csproj.AssemblyReference.cache
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.csproj.SuggestedBindingRedirects.cache
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.Form1.resources
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.Form2.resources
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.Properties.Resources.resources
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.csproj.GenerateResource.cache
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.csproj.CoreCompileInputs.cache
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.exe
+D:\my .net applications\DelectamentiPeanutButterStoreManagement\obj\Debug\DelectamentiPeanutButterStoreManagement.pdb
